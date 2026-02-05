@@ -27,7 +27,7 @@ This repository contains analysis pipelines developed for the **Experimental Ser
 
 ## 🧠 EEG Analysis
 
-**Notebook:** [`EEG_Analysis_Pipeline.ipynb`](./EEG_Analysis_Pipeline.ipynb)
+**Notebook:** [`EEG_Analysis_Pipeline.ipynb`](./Notebook/EEG_Analysis_Pipeline.ipynb)
 
 A comprehensive pipeline for processing electroencephalography (EEG) data in linguistic experiments, with focus on event-related potentials (ERPs) relevant to language processing.
 
