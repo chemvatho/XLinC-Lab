@@ -117,7 +117,9 @@ See the dedicated repository: [github.com/chemvatho/Peekbank-Analysis](https://g
 
 ## ⏱️ Reaction Time Analysis
 
-**Notebook:** [`Reaction_Time_Analysis.ipynb`](./Reaction_Time_Analysis.ipynb)
+**Notebook:** [`Reaction_Time_Analysis.ipynb`](./Notebook/Reaction_Time_Analysis.ipynb)
+
+<img src="https://github.com/chemvatho/XLinCoLab/blob/main/RT-Results/rt_distributions.png" alt="diphthong" width="800"/>
 
 A psycholinguistics-focused pipeline for analyzing reaction time data from lexical decision and similar paradigms.
 
@@ -128,6 +130,9 @@ A psycholinguistics-focused pipeline for analyzing reaction time data from lexic
 - **ANOVA:** Repeated measures with pairwise comparisons (Bonferroni correction)
 - **Mixed-Effects Models:** Linear mixed models with random slopes for subjects/items
 - **Visualization:** Interaction plots, by-subject distributions, effect size plots
+
+<img src="https://github.com/chemvatho/XLinCoLab/blob/main/RT-Results/qq_plots.png" alt="diphthong" width="800"/>
+
 
 ### Sample Output
 ```
@@ -146,9 +151,11 @@ pandas, numpy, scipy, statsmodels, pingouin, matplotlib, seaborn
 ```
 
 ---
+<img src="https://github.com/chemvatho/XLinCoLab/blob/main/RT-Results/rt_effects.png" alt="diphthong" width="800"/>
 
+..............................
 ## 🚀 Quick Start
-
+..............................
 ### Option 1: Google Colab (Recommended)
 Click the "Open in Colab" badge on any notebook to run directly in your browser—no installation required.
 
